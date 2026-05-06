@@ -1,0 +1,26 @@
+{"prompt": "Hello!", "response": {"output_text": "Hi there! How can I help you today?"}}
+{"prompt": "What is the capital of France?", "response": {"output_text": "The capital of France is Paris."}}
+{"prompt": "Summarize: The quick brown fox jumps over the lazy dog.", "response": {"output_text": "A fox jumps over a dog."}}
+{"prompt": "def add(a, b): return a + b", "response": {"output_text": "This function adds two numbers and returns the result."}}
+{"prompt": "Fix this Python code: print('Hello)", "response": {"output_text": "You are missing a closing quote. Correct version: print('Hello')"}}
+{"prompt": "Here is my API key: AKIA1234567890ABCDE", "response": {"output_text": "Warning: Do not share API keys publicly."}}
+{"prompt": "Bearer token: Bearer abcdef1234567890", "response": {"output_text": "This looks like a bearer token. Keep it secure."}}
+{"prompt": "User email is john.doe@example.com", "response": {"output_text": "Email addresses should be handled securely."}}
+{"prompt": "SSN is 123-45-6789", "response": {"output_text": "SSNs are sensitive and should not be shared."}}
+{"prompt": "Hiring memo: Candidate has diabetes and needs accommodations", "response": {"output_text": "Medical information should be handled confidentially."}}
+{"prompt": "Paste of source code: function login(user, pass) { return true; }", "response": {"output_text": "This appears to be a login function. Consider adding authentication checks."}}
+{"prompt": "AWS_SECRET_ACCESS_KEY=abcd1234secretvalue", "response": {"output_text": "Never expose AWS secret keys."}}
+{"prompt": "My password is supersecret123", "response": {"output_text": "Passwords should never be shared or logged."}}
+{"prompt": "Explain recursion like I'm five", "response": {"output_text": "Recursion is when something calls itself to solve a problem step by step."}}
+{"prompt": "Generate a SQL query to select all users", "response": {"output_text": "SELECT * FROM users;"}}
+{"prompt": "Convert 100 USD to EUR", "response": {"output_text": "Conversion rates vary, but approximately 100 USD is around 90 EUR."}}
+{"prompt": "Explain OAuth2 flow", "response": {"output_text": "OAuth2 is a protocol that allows secure delegated access using tokens."}}
+{"prompt": "-----BEGIN PRIVATE KEY-----", "response": {"output_text": "Private keys must be kept secure and never shared."}}
+{"prompt": "Token=abcd-efgh-ijkl-1234", "response": {"output_text": "Tokens should be treated as sensitive credentials."}}
+{"prompt": "User pasted logs with email jane@company.com and key AKIAZZZZZZZZZZZZZZZZ", "response": {"output_text": "Sensitive data detected in logs. Consider masking before storage."}}
+{"prompt": "Write a cover letter for a software engineer", "response": {"output_text": "Here is a professional cover letter tailored for a software engineering role."}}
+{"prompt": "Debug this error: NullPointerException", "response": {"output_text": "This error occurs when trying to use an object that is null."}}
+{"prompt": "API_KEY=12345-ABCDE", "response": {"output_text": "API keys should not be exposed publicly."}}
+{"prompt": "User says: my phone number is 555-123-4567", "response": {"output_text": "Phone numbers are personal data and should be protected."}}
+{"prompt": "Explain Kubernetes in simple terms", "response": {"output_text": "Kubernetes helps manage and scale containers automatically."}}
+{"prompt": "System logs show password=letmein", "response": {"output_text": "Passwords in logs should be removed or masked."}}

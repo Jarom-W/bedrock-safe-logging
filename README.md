@@ -4,7 +4,7 @@ This build creates a wrapper around customizable AWS Bedrock LLMs. The purpose o
 
 SSO into the AWS CLI to get started then run `make build` to build and run the image as a container in Docker.
 
-##Features
+## Features
 - Safe Logging:
     - Choose to configure prompt logging
     - Trace id maintained across logs throughout lifetime of request
@@ -14,3 +14,7 @@ SSO into the AWS CLI to get started then run `make build` to build and run the i
     - Automatic unit and integration tests
     - Run `make test` for unit testing
     - Run `make test-integration` for end to end integration test
+
+ - Repository Secret Scanning:
+   - Run `make scan` to conduct a repository-wide scan for hardcoded credentials
+   - Discovered credentials in source code are cited with file name and line of incident
